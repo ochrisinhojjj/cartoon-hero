@@ -1,0 +1,29 @@
+body{
+background-color: white;
+}
+
+h1{
+font-size: 30px;
+color: limegreen;
+}
+
+h2{
+font-size: 20px;
+color: black;
+}
+
+.style{
+font-style: italic;
+}
+
+.uppercase{
+text-transform: uppercase;
+}
+
+.style.uppercase{
+color: darkgreen;
+}
+
+h1 span{
+font-weight: 800;
+}
